@@ -3,4 +3,4 @@ Playing the game of Knights and Knaves, based on the prepositions given, we foun
 In the game of Knights and Knaves, we know that knights always tell the truth and the Knaves always lie.We created a knowledge base,
 with wich we resolved the mistery of the prepositions, returning who is a Knight and who is a Knave.
 
-This is the first from the two Projects for Harvard CS50's AI with Python Course.
+This is the first from the Week 1 Projects for Harvard CS50's AI with Python Course.
